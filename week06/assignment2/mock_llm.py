@@ -1,4 +1,3 @@
-# week06/assignment2/mock_llm.py
 import random
 
 def mock_llm_call(system, user_message, temperature=0.2, max_tokens=500):
